@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817174326423",
+    "project_id": "vacationz-95f43",
+    "storage_bucket": "vacationz-95f43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817174326423:android:296ac16a55a736afe60dd2",
+        "android_client_info": {
+          "package_name": "com.example.mobpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeRyrlQfosCK-PaaYgBh5_mFOyvyq9wdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
